@@ -1,4 +1,4 @@
-# 🚀 AI Resume Intelligence System
+# AI Resume Intelligence System
 
 An AI-powered resume screening system that performs:
 
@@ -10,7 +10,7 @@ An AI-powered resume screening system that performs:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -26,3 +26,4 @@ An AI-powered resume screening system that performs:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
